@@ -1,1 +1,1 @@
-# C_Data_structure_Project1
+# clinic_managment_system
