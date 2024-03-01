@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1709302314 source:d:\projects\c prog\clinic_manage_sys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	"Clinic.c"
+
+1709224401 source:d:\projects\c prog\clinic_manage_sys\clinic.c
+
+1709222290 d:\projects\c prog\clinic_manage_sys\clinic.h
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	"Data_Types.h"
+
+1709220605 d:\projects\c prog\clinic_manage_sys\data_types.h
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+
+1709224401 d:\projects\c prog\clinic_manage_sys\clinic.c
+
